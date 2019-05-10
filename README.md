@@ -18,7 +18,7 @@ It simply turn off the
 
 Lighthouse alert.
 
-![The Lighthouse alert](https://raw.githubusercontent.com/NoriSte/gatsby-preload-link-crossorigin/master/assets/lighthouse-alert.jpg.png)
+![The Lighthouse alert](https://raw.githubusercontent.com/NoriSte/gatsby-preload-link-crossorigin/master/assets/lighthouse-alert.jpg)
 
 ## How to use
 
