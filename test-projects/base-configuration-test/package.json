@@ -34,8 +34,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "cy:open": "cypress open",
-    "plugin:link": "rm -f ./node_modules/gatsby-preload-link-crossorigin && ln -s ../../../ ./node_modules/gatsby-preload-link-crossorigin",
-    "plugin:copy": "mkdir -p plugins/gatsby-preload-link-crossorigin && \\cp ../../{gatsby-ssr.js,package.json} plugins/gatsby-preload-link-crossorigin/",
+    "plugin:link": "rm -f ./node_modules/gatsby-plugin-preload-link-crossorigin && ln -s ../../../ ./node_modules/gatsby-plugin-preload-link-crossorigin",
+    "plugin:copy": "mkdir -p plugins/gatsby-plugin-preload-link-crossorigin && \\cp ../../{gatsby-ssr.js,package.json} plugins/gatsby-plugin-preload-link-crossorigin/",
     "test": "yarn install && npm run plugin:link && npm run build && npm run cy:start-server-and-test",
     "cy:start-server-and-test": "npx start-server-and-test serve :9000 cy:run",
     "cy:run": "cypress run"

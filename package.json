@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-preload-link-crossorigin",
+  "name": "gatsby-plugin-preload-link-crossorigin",
   "version": "1.0.0",
   "description": "Gatsby plugin to add the crossorigin attribute to every <link rel=\"preload\"> tag",
   "main": "index.js",
@@ -12,7 +12,7 @@
   ],
   "author": "NoriSte <nori.ste.magni@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/NoriSte/gatsby-preload-link-crossorigin",
+  "repository": "https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin",
   "devDependencies": {
     "@babel/cli": "^7.4.3",
     "@babel/core": "^7.4.3",

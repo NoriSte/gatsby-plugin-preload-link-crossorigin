@@ -1,15 +1,15 @@
-# gatsby-preload-link-crossorigin
+# gatsby-plugin-preload-link-crossorigin
 
 Quickly add the `crossorigin` attribute to every `<link rel="preload">` tag to turn off the Lighthouse alert.
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Build Status](https://travis-ci.com/NoriSte/gatsby-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-preload-link-crossorigin)
+[![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## Install
 
-`npm install --save gatsby-preload-link-crossorigin`
+`npm install --save gatsby-plugin-preload-link-crossorigin`
 
 ## What this plugin does
 
@@ -19,14 +19,14 @@ It simply turn off the
 
 Lighthouse alert.
 
-![The Lighthouse alert](https://raw.githubusercontent.com/NoriSte/gatsby-preload-link-crossorigin/master/assets/lighthouse-alert.jpg)
+![The Lighthouse alert](https://raw.githubusercontent.com/NoriSte/gatsby-plugin-preload-link-crossorigin/master/assets/lighthouse-alert.jpg)
 
 ## How to use
 
 ```javascript
 // In your gatsby-config.js
 plugins: [
-  'gatsby-preload-link-crossorigin',
+  'gatsby-plugin-preload-link-crossorigin',
 ]
 ```
 
@@ -45,7 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://twitter.com/NoriSte"><img src="https://avatars0.githubusercontent.com/u/173663?v=4" width="100px;" alt="Stefano Magni"/><br /><sub><b>Stefano Magni</b></sub></a><br /><a href="https://github.com/NoriSte/gatsby-preload-link-crossorigin/commits?author=NoriSte" title="Code">💻</a> <a href="https://github.com/NoriSte/gatsby-preload-link-crossorigin/commits?author=NoriSte" title="Documentation">📖</a></td></tr></table>
+<table><tr><td align="center"><a href="https://twitter.com/NoriSte"><img src="https://avatars0.githubusercontent.com/u/173663?v=4" width="100px;" alt="Stefano Magni"/><br /><sub><b>Stefano Magni</b></sub></a><br /><a href="https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin/commits?author=NoriSte" title="Code">💻</a> <a href="https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin/commits?author=NoriSte" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
