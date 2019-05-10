@@ -1,5 +1,5 @@
 # gatsby-preload-link-crossorigin
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
 Quickly add the `crossorigin` attribute to every `<link rel="preload">` tag to turn off the Lighthouse alert.
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
