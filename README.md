@@ -19,7 +19,11 @@ It simply turn off the
 
 Lighthouse alert.
 
-![The Lighthouse alert](https://raw.githubusercontent.com/NoriSte/gatsby-plugin-preload-link-crossorigin/master/assets/lighthouse-alert.jpg)
+![The Lighthouse
+alert](https://raw.githubusercontent.com/NoriSte/gatsby-plugin-preload-link-crossorigin/master/assets/lighthouse-alert.jpg)
+
+**BE AWARE** that doesn't guarantee a higher Lighthouse score! It's up to you to analyze whether or not it
+improves your site performance!
 
 ## How to use
 
