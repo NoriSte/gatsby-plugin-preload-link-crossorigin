@@ -1,3 +1,5 @@
+> This package has been deprecated. Use at your own risk. See [https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin/issues/369](https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin/issues/369)
+
 # gatsby-plugin-preload-link-crossorigin
 
 Quickly add the `crossorigin` attribute to every `<link rel="preload">` tag to turn off the Lighthouse alert.
